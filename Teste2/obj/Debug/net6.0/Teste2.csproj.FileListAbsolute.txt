@@ -1,0 +1,15 @@
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\bin\Debug\net6.0\Teste2.exe
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\bin\Debug\net6.0\Teste2.deps.json
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\bin\Debug\net6.0\Teste2.runtimeconfig.json
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\bin\Debug\net6.0\Teste2.dll
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\bin\Debug\net6.0\Teste2.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.csproj.AssemblyReference.cache
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.AssemblyInfoInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.AssemblyInfo.cs
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.csproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.dll
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\refint\Teste2.dll
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\Teste2.genruntimeconfig.cache
+C:\Users\abner\OneDrive\Área de Trabalho\WorksPace2\Teste\Teste2\obj\Debug\net6.0\ref\Teste2.dll
